@@ -35,7 +35,7 @@ Insert/Update:
 3. If found: Update the value
 4. If not found: Insert at the head of the chain
 5. Increase count
-6. Ckeck load factor and resize if needed
+6. Check load factor and resize if needed
 
 Search:
 1. Hashes the key
