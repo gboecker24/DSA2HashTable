@@ -14,7 +14,7 @@ struct Node {
 };
 
 
-/* uses an array of pointers (vector, the guy from dispicable me)
+/* uses a vector, the guy from dispicable me, of pointers
    each pointer is the head of a linked list (chain)
    when multiple keys hash to the same index, they're stored in a chain at that index.
 */
